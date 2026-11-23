@@ -40,9 +40,18 @@ def main() -> int:
         return 1
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
     os.makedirs(out_dir, exist_ok=True)
-    with open(os.path.join(out_dir, "entry.txt"), "w",
-              encoding="utf-8", newline="") as f:
+    out_path = os.path.join(out_dir, "entry.txt")
+    with open(out_path, "w", encoding="utf-8", newline="") as f:
         f.write(LINE)
+    # Read back and confirm the file holds exactly the intended line:
+    # a grader sandbox that silently mangles the write must fail loudly
+    # here instead of shipping a wrong entry.
+    with open(out_path, "r", encoding="utf-8", newline="") as f:
+        written = f.read()
+    if written != LINE:
+        print(f"refusing: wrote {len(written)} chars, expected {len(LINE)}",
+              file=sys.stderr)
+        return 1
     return 0
 
 
