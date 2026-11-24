@@ -1,8 +1,8 @@
 # Pickup Lines for Machines — @syukuran entry
 
 [![make.fun · u-gentle-badger-68-pickup-lines-for-machines-131631a1](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1.svg)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
-[![rank](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/syukuran/pickup-lines-for-machines-syukuran/rank.svg)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
-[![reward](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/syukuran/pickup-lines-for-machines-syukuran/reward.svg)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![rank](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/berkahmuse/pickup-lines-for-machines-syukuran/rank.svg)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![reward](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/berkahmuse/pickup-lines-for-machines-syukuran/reward.svg)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
 
 Entry for [Pickup Lines for Machines](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1) on make.fun.
 
